@@ -157,9 +157,6 @@ public class ImageManipulation {
             }
         }
         newImage.draw();
-
-
-
     }
 
 }
